@@ -8,3 +8,8 @@ h1{
     font-weight: 900;
     text-align: center;
 }
+.sort{background-color: cornflowerblue;
+    font-style: unset;
+    font-weight: 700;
+    font-color: rgb(199, 25, 25);
+}
