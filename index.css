@@ -11,5 +11,8 @@ h1{
 .sort{background-color: rgb(89, 116, 167);
     font-style: unset;
     font-weight: 700;
-    font-color: rgb(199, 25, 25);
+    font color: rgb(199, 25, 25);
+}
+div{
+    font-style: italic;
 }
